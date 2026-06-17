@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nerdyaiwizard.github.io/vlog2shorts-legal/sitemap.xml
